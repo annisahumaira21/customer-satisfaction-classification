@@ -89,7 +89,7 @@ We assumed that customer satisfied with improvement of the services, and we will
 from the graph we conclude that improvement of 2 features impact on increasing customer satisfaction from 54.7% to 67.6%
 
 ## Team Behind This Project
-Mentor : M. Mirza Fahmi
+Mentor : M. Mirza Fahmi<br>
 Team Member:
 - Annisa Humaira
 - Ahmad Athoillah
