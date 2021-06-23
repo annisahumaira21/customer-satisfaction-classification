@@ -87,3 +87,13 @@ We assumed that customer satisfied with improvement of the services, and we will
 ![alt text](https://github.com/annisahumaira21/customer-satisfaction-classtification/blob/main/improvement%20of%20customer%20satisfaction.JPG)<br>
 
 from the graph we conclude that improvement of 2 features impact on increasing customer satisfaction from 54.7% to 67.6%
+
+## Team Behind This Project
+Mentor : M. Mirza Fahmi
+Team Member:
+- Annisa Humaira
+- Ahmad Athoillah
+- Dicky Zulkarnain
+- Imam Baskara
+- Suhartini
+        
