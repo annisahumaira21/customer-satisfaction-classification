@@ -14,4 +14,10 @@
 ## Purpose
 - to find out which services need to be improved and impact on increasing customer satisfaction
 
-## Early Insight from Data
+## Early Insight from Data<br>
+![alt text](https://github.com/annisahumaira21/customer-satisfaction-classtification/blob/main/distributon%20of%20customers.JPG)<br>
+
+top 3 most of customers:
+- Business travel - business class
+- Personal travel - eco class
+- Business travel - eco class
